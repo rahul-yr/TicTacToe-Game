@@ -1,0 +1,59 @@
+div{
+  margin-top:80px;
+}
+table{
+   border:3px solid grey;
+  border-collapse:collapse;
+  background-color:lightblue;
+  margin-left:auto;
+  margin-right:auto;
+  //position:absolute;
+  font-size:60px;
+}
+td{
+  border:3px solid grey; 
+  width:100px;
+  height:100px;
+   cursor:pointer;
+}
+tr{
+ 
+  color:black;
+}
+#restart{
+  margin-top:30px;
+  //color:red;
+}
+#Gameover{
+ margin-top:10px;
+  margin-bottom:1px;
+//  left:40%;
+ //right:auto;
+  margin-left:auto;
+  margin-right:auto;
+  position:relative;
+  font-size:40px;
+  width:200px;
+  height:60px;
+  visibility:hidden;
+  padding-top:2px;
+ // background-color:black;
+  color:red;
+  opacity:1;
+  border-radius:10px;
+  
+  
+}
+#data{
+  background-color:black;
+  color:white;
+}
+.container{
+  margin-top:10px;
+ // visibility:hidden;
+}
+.headd{
+  margin-top:0px;
+  margin-bottom:0px;
+  color:purple;
+}
